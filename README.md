@@ -10,3 +10,7 @@ No C/Java programming in this project, only database design is involved and repr
 script.sql contains both all sql statements to build the database and test data for specific cases.  
 click [here](./script.sql) to see the script file.
 
+## Document
+report.pdf a the report for this coursework
+click [here](./report.pdf) to see the document.
+

@@ -1,4 +1,4 @@
-# Pandemic-Monitoring-Database
+# Pandemic Monitoring and Management Database
 The repository stores the college coursework for module CPT103.  
 
 ## Introduction

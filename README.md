@@ -11,6 +11,6 @@ script.sql contains both all sql statements to build the database and test data 
 click [here](./script.sql) to see the script file.
 
 ## Document
-report.pdf a the report for this coursework
+report.pdf is the report for this coursework.  
 click [here](./report.pdf) to see the document.
 

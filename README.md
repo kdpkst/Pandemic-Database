@@ -2,7 +2,7 @@
  
 
 ## Introduction
-The projecg aims to develop a pandemic monitoring and management system (PMMS).  
+The project aims to develop a pandemic monitoring and management system (PMMS).  
 The database is designed based on PMMS.  
 No C/Java programming in this project, only database design is involved and represented in sql. 
 
